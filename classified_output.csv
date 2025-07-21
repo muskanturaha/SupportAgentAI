@@ -1,0 +1,368 @@
+timestamp,text,channel,sentiment,emotion,type,urgency,confidence
+2025-07-21 21:59:28.441183,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 21:59:32.060163,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 21:59:35.125501,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 21:59:39.106996,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 21:59:42.734296,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 21:59:46.584352,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 21:59:50.401006,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 21:59:53.987605,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 21:59:57.055840,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:00:00.163441,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:00:03.971366,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:00:07.689055,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:00:10.750472,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:00:13.824163,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:00:16.873371,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:00:20.767271,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:00:24.374555,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:00:27.961786,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:00:31.614973,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:00:35.450482,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:00:38.591093,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:00:41.691230,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:00:44.802349,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:00:48.938155,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:00:53.170103,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:00:56.801289,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:00:59.875809,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:01:03.585711,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:01:07.276807,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:01:11.026186,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:01:14.066169,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:01:17.129853,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:01:21.097078,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:01:24.893431,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:01:28.695483,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:01:31.762485,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:01:35.479208,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:01:39.594690,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:01:42.778377,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:01:49.949192,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:01:54.167214,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:01:57.894809,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:02:02.984384,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:02:07.018503,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:02:10.794914,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:02:13.946602,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:02:18.222102,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:02:21.365310,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:02:26.387052,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:02:30.643803,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:02:34.893695,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:02:39.340035,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:02:43.700346,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:02:48.170302,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:02:51.299352,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:02:55.337380,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:02:58.455833,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:03:01.559782,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:03:05.692354,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:03:08.816630,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:03:13.063184,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:03:17.195389,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:03:20.390530,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:03:24.316845,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:03:28.149904,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:03:31.329673,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:03:36.491322,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:03:39.650984,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:03:43.663039,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:03:47.765059,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:03:51.564027,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:03:55.272790,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:03:59.088560,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:04:03.306072,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:04:07.455902,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:04:10.549071,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:04:14.360703,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:04:18.386539,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:04:22.263477,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:04:26.037047,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:04:30.043674,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:04:35.031775,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:04:38.854184,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:04:42.847370,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:04:46.091471,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:04:50.458076,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:04:53.559864,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:04:57.601470,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:05:05.989561,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:05:09.176458,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:05:13.414771,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:05:17.553672,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:05:21.749227,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:05:26.023140,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:05:30.227256,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:05:34.536815,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:05:38.577831,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:05:41.734474,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:05:44.931647,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:05:49.002878,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:05:53.068932,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:05:57.353191,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:06:01.287046,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:06:04.403721,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:06:08.808466,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:06:11.969337,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:06:16.711033,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:06:21.433347,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:06:25.817271,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:06:30.026490,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:06:34.419847,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:06:38.711140,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:06:41.920092,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:06:46.592176,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:06:50.701227,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:06:53.849700,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:06:58.341378,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:07:02.597728,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:07:06.683055,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:07:10.824796,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:07:15.323738,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:07:19.702083,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:07:23.624305,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:07:27.933888,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:07:31.270097,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:07:34.346815,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:07:38.562703,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:07:42.250060,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:07:45.351472,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:07:49.387398,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:07:53.495538,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:07:57.333578,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:08:01.153350,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:08:05.121786,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:08:08.829398,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:08:12.758584,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:08:16.564498,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:08:20.226401,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:08:24.107202,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:08:27.875337,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:08:31.010261,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:08:34.108028,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:08:38.088822,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:08:41.225649,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:08:45.117268,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:08:48.194153,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:08:51.843443,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:08:55.640002,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:08:58.708167,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:09:02.388182,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:09:06.487732,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:09:10.480016,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:09:13.607465,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:09:16.841963,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:09:20.115500,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:09:24.416139,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:09:28.447892,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:09:32.242684,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:09:36.153430,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:09:40.038501,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:09:43.807674,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:09:47.604521,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:09:51.271599,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:09:54.967078,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:09:58.720391,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:10:02.425994,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:10:06.025868,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:10:09.859702,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:10:12.928594,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:10:16.769749,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:10:20.395810,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:10:24.015502,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:10:27.813674,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:10:31.514258,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:10:35.237679,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:10:39.003278,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:10:42.610270,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:10:46.347987,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:10:49.972907,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:10:53.043147,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:10:56.837098,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:10:59.916410,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:11:03.680146,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:11:07.349773,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:11:11.019706,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:11:14.627815,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:11:18.281111,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:11:21.910014,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:11:25.557126,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:11:29.440424,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:11:32.529393,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:11:35.597427,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:11:39.258629,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:11:42.338628,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:11:45.422952,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:11:49.019996,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:11:52.681059,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:11:55.755519,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:11:59.719755,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:12:03.844205,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:12:07.669213,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:12:11.363911,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:12:14.438603,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:12:18.349545,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:12:22.064564,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:12:25.137894,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:12:28.210692,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:12:31.941028,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:12:35.773365,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:12:38.864157,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:12:41.994849,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:12:45.914420,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:12:48.986393,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:12:52.668886,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:12:56.537277,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:13:00.827990,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:13:04.543153,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:13:08.154239,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:13:11.229220,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:13:15.171540,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:13:18.250423,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:13:21.873180,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:13:25.612865,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:13:29.210594,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:13:32.289859,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:13:36.031523,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:13:39.683270,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:13:42.767023,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:13:46.653602,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:13:49.740123,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:13:53.396574,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:13:57.290422,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:14:00.875440,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:14:04.595682,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:14:08.228306,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:14:11.859349,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:14:15.490299,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:14:19.609759,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:14:23.268840,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:14:26.854073,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:14:30.524321,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:14:34.255633,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:14:37.857656,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:14:40.944482,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:14:44.794972,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:14:48.477962,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:14:52.311639,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:14:55.935994,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:15:00.112864,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:15:03.232078,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:15:06.309269,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:15:10.353649,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:15:14.316912,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:15:18.424741,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:15:22.167762,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:15:25.947853,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:15:29.890253,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:15:33.740125,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:15:37.408246,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:15:41.052646,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:15:44.141525,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:15:48.121630,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:15:51.816496,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:15:55.824765,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:15:58.907665,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:16:02.514727,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:16:06.318167,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:16:10.021391,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:16:13.687517,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:16:17.271630,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:16:20.910314,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:16:24.745354,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:16:28.676926,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:16:31.842051,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:16:35.837944,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:16:39.535581,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:16:43.185855,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:16:46.269359,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:16:50.081295,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:16:53.159440,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:16:56.906551,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:17:00.522106,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:17:04.139915,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:17:07.222644,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:17:10.865361,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:17:13.964822,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:17:17.690274,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:17:21.537307,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:17:25.254468,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:17:28.880335,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:17:32.666437,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:17:36.447102,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:17:40.251178,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:17:43.328870,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:17:46.416347,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:17:49.501177,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:17:53.277451,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:17:56.893900,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:17:59.984571,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:18:03.062286,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:18:06.657699,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:18:10.299064,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:18:14.019948,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:18:17.116830,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:18:20.862588,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:18:23.933119,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:18:27.552969,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:18:31.376372,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:18:35.229585,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:18:39.069907,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:18:42.736670,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:18:46.453317,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:18:50.281732,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:18:54.284203,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:18:58.132546,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:19:01.899241,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:19:05.612748,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:19:09.244735,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:19:12.315207,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:19:16.261950,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:19:19.856300,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:19:23.444708,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:19:26.517960,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:19:30.142067,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:19:33.739053,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:19:36.807969,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:19:40.567222,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:19:44.384347,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:19:48.026851,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:19:51.686618,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:19:55.269383,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:19:58.904959,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:20:01.968535,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:20:05.651169,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:20:09.231718,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:20:13.007211,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:20:16.622294,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:20:20.202961,Update me on the status?,chat,negative,joy,request,medium,0.801
+2025-07-21 22:20:23.792298,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:20:26.862690,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:20:30.457969,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:20:33.579876,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:20:36.652626,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:20:40.658951,Loved the packaging,chat,positive,love,praise,low,0.995
+2025-07-21 22:20:43.742837,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:20:47.453572,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:20:51.037686,"Don't ring the bell, baby sleeping.",chat,negative,fear,request,medium,0.482
+2025-07-21 22:20:54.800977,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:20:58.873789,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:21:03.017927,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:21:06.102020,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:21:09.812006,Refund me NOW!,chat,negative,anger,complaint,high,0.562
+2025-07-21 22:21:12.883635,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:21:15.973405,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:21:19.862426,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:21:23.671345,Why does it always take 60+ minutes?,chat,negative,anger,question,medium,0.619
+2025-07-21 22:21:27.407869,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:21:31.173756,Super fast delivery!,chat,positive,joy,praise,low,0.994
+2025-07-21 22:21:34.999154,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:21:38.619877,My food arrived cold again!,chat,negative,anger,complaint,medium,0.998
+2025-07-21 22:21:42.349473,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:21:45.963939,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:21:49.759070,Please add extra tissues.,chat,positive,joy,request,low,0.945
+2025-07-21 22:21:53.436219,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997
+2025-07-21 22:21:56.508719,Need sauces with the order.,chat,negative,anger,complaint,medium,0.804
+2025-07-21 22:22:00.130808,Driver marked delivered but nothing here!,chat,negative,anger,complaint,medium,0.921
+2025-07-21 22:22:03.864086,"Awesome service, thanks!",chat,positive,joy,praise,low,0.997

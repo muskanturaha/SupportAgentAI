@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers~=4.41.0
+torch>=2.2
+pandas>=2.0
+streamlit==1.35
+altair
+slack_sdk==3.27.2
+requests
+tqdm
